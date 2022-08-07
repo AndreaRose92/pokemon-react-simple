@@ -1,7 +1,25 @@
 
-.logo {
-    float: right;
-    margin-right: 50px;
-    max-height: 450px;
-    max-width: 450px;
+
+.tomhanks {
+  transform: rotateX(180deg);
+  float: left;
+  text-align: center;
+  padding: 14px 25px;
+}
+
+.navbar {
+  position: sticky;
+  justify-content: center;
+  display: flex;
+  box-sizing: content-box;
+  /* height: 0; */
+  /* border: 80px solid rgba(0, 0, 0, 0); */
+  border-top: 0 solid;
+  /* border-bottom:rgba(0, 0, 0, 0) 100px solid; */
+  border-radius: 20px 20px 0 0;
+  color: rgba(0, 0, 0, 0.7);
+  text-overflow: clip;
+  width: 700px;
+  transform: rotateX(180deg);
+  background-color: ;
 }
